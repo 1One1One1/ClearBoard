@@ -1,4 +1,4 @@
-# ClearBoard [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [!No Maintenance Intended](http://unmaintained.tech/badge.svg)]
+# ClearBoard [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [!No Maintenance Intended!](http://unmaintained.tech/badge.svg)]
 A simple program to clear your Clipboard history.
 
 # 🛠 Setup Instructions 🛠
