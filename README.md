@@ -1,5 +1,5 @@
 # ClearBoard [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
-A simple program to clear your Clipboard history.
+A simple program to clear your Clipboard history. For an instant download click this link: https://github.com/1One1One1/ClearBoard/blob/master/ClearBoard.exe
 
 # 🛠 Setup Instructions 🛠
 Simply download the ClearBoard.exe file in the repository and run the program.
