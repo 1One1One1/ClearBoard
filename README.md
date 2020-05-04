@@ -33,3 +33,8 @@ clear the clipboard history.
 - Can I Try To Look Into The Code?
 > Usually developers will discourage reverse engineering the software they made
 but that won't stop them. Go ahead and try to look into the 10+ lines of code.
+
+- Do You Plan To Work On This Project?
+> Nope. This project will probably go unmaintained as anything I can add to it
+is limited. I don't plan on adding anything to the program, fixing any bugs, or even
+giving help on this project. Basically discontinued but not.
