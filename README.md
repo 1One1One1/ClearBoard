@@ -1,13 +1,13 @@
 # ClearBoard [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 A simple program to clear your Clipboard history.
 
-# Setup Instructions
+# 🛠 Setup Instructions 🛠
 Simply download the ClearBoard.exe file in the repository and run the program.
 
-# Uninstall Instructions
+# ⚙️ Uninstall Instructions ⚙️
 Just delete the ClearBoard.exe file and restart your computer.
 
-# Frequently Asked Questions
+# 💬 Frequently Asked Questions 💬
 
 - Is This A Virus?
 > No, the program just clears your clipboard history. If it's detected as a virus
