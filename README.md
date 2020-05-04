@@ -1,7 +1,6 @@
 # ClearBoard
 A simple program to clear your Clipboard history.
-downloads/<user>/<repo>/total.svg
-
+<downloads/<user>/<repo>/total.svg>
 
 # Setup Instructions
 Simply download the ClearBoard.exe file in the repository and run the program.
