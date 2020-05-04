@@ -29,3 +29,7 @@ program does is "My.Computer.Clipboard.Clear()" which you can research about.
 > No. It is a standalone exe file that doesn't require you to setup and install
 it. I made it this way because I'm lazy and some people just want an easy way to
 clear the clipboard history.
+
+- Can I Try To Look Into The Code?
+> Usually developers will discourage reverse engineering the software they made
+but that won't stop them. Go ahead and try to look into the 10+ lines of code.
