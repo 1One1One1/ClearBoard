@@ -38,3 +38,9 @@ but that won't stop them. Go ahead and try to look into the 10+ lines of code.
 > Nope. This project will probably go unmaintained as anything I can add to it
 is limited. I don't plan on adding anything to the program, fixing any bugs, or even
 giving help on this project. Basically discontinued but not.
+
+- Will You Ever Remaster This Program
+> Maybe. I can probably attempt to add a way to modify your clipboard and add
+something to it but this would probably be a whole new repository and project.
+Right now I don't want anything to do with this project as it started out as a
+test project and now it will forever collect dust in this repository.
